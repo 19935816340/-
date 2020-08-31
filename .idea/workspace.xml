@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1fe9b9f8-086c-45c7-91ef-76e23467f4fc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fin1rmZ0LnZXz51kc7ZXOvLHUT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Ma">
+    <configuration name="分数序列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.分数序列" />
+      <module name="50编程题" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="菱形19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.菱形19" />
+      <module name="50编程题" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="考试题草稿.Ma" />
+      <module name="50编程题" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="考试题草稿.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="考试题草稿.Main" />
+      <module name="50编程题" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="考试题草稿.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Prog13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Prog13" />
+      <module name="50编程题" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="第几天" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.第几天" />
+      <module name="50编程题" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="完全平方数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.完全平方数" />
+      <module name="50编程题" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="猴子吃桃" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.猴子吃桃" />
+      <module name="50编程题" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="完全平方数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.完全平方数" />
+      <module name="50编程题" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="企业奖金" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.企业奖金" />
+      <module name="50编程题" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="数字排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.数字排序" />
+      <module name="50编程题" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="九九乘法表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.九九乘法表" />
+      <module name="50编程题" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="first" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="考试题草稿.first" />
+      <module name="50编程题" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="考试题草稿.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.分数序列" />
+      <item itemvalue="Application.Prog13" />
+      <item itemvalue="Application.菱形19" />
+      <item itemvalue="Application.first" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Ma" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ma" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.first" />
+        <item itemvalue="Application.菱形19" />
+        <item itemvalue="Application.Prog13" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1fe9b9f8-086c-45c7-91ef-76e23467f4fc" name="Default Changelist" comment="" />
+      <created>1596709568832</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596709568832</updated>
+      <workItem from="1596709573320" duration="10056000" />
+      <workItem from="1596760508095" duration="2368000" />
+      <workItem from="1596798934266" duration="3314000" />
+      <workItem from="1596869182347" duration="10251000" />
+      <workItem from="1596951471500" duration="6809000" />
+      <workItem from="1597018840686" duration="1653000" />
+      <workItem from="1597105366874" duration="6000" />
+      <workItem from="1597564892641" duration="11146000" />
+      <workItem from="1597624268261" duration="9010000" />
+      <workItem from="1597662374816" duration="2356000" />
+      <workItem from="1597821588071" duration="5135000" />
+      <workItem from="1597831258586" duration="8284000" />
+      <workItem from="1598147290970" duration="1585000" />
+      <workItem from="1598266004944" duration="4176000" />
+      <workItem from="1598336549575" duration="128000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="614" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1598835849901">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="614" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1598835849901" />
+    <state width="1026" height="184" key="GridCell.Tab.0.bottom" timestamp="1598270292739">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1026" height="184" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598270292739" />
+    <state width="1026" height="184" key="GridCell.Tab.0.center" timestamp="1598270292739">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1026" height="184" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1598270292739" />
+    <state width="1026" height="184" key="GridCell.Tab.0.left" timestamp="1598270292739">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1026" height="184" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1598270292739" />
+    <state width="1026" height="184" key="GridCell.Tab.0.right" timestamp="1598270292739">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1026" height="184" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1598270292739" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1598336555866">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1598336555866" />
+    <state x="178" y="22" key="new project wizard" timestamp="1598336676275">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="22" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1598336676275" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1597824616551">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1597824616551" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1596878312051">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1596878312051" />
+  </component>
+</project>
